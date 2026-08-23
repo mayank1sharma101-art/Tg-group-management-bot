@@ -32,8 +32,8 @@ A feature-rich Telegram group management bot built with Python and `python-teleg
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/infinity-group-manager.git
-cd infinity-group-manager
+git clone https://github.com/mayank1sharma101-art/Tg-group-management-bot.git
+cd Tg-group-management-bot
 
 python -m venv venv
 source venv/bin/activate
